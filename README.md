@@ -66,6 +66,7 @@
 Or, Contact Me On Discord
 <br>
 <a href="https://discord.com/users/474947792578674689" target="_blank">
+<br>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
 </a>
 
