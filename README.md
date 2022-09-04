@@ -57,7 +57,7 @@
   </a>
 
 
-  <a href="https://keray.site" rel="nofollow" target="_blank">
+  <a href="https://kamileray.tk" rel="nofollow" target="_blank">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WWW.svg" title="My Website" alt="MyWebsite" width="50"/>
   </a>
 </p>
