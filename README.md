@@ -78,7 +78,7 @@ Or, Contact Me On Discord
 
 <br>
 <div class="stats">
-<h4 style="color:white; font-family: Arial;">Most used language&Profile Stats</h4>
+<h3 style="color:white; font-family: Arial;">Most used language & Profile Stats</h3>
 
 <div class="icerik" style="display: flex;
     justify-content: flex-start;
@@ -88,7 +88,7 @@ Or, Contact Me On Discord
     flex-direction: row;">
 <img src="https://github-readme-stats.vercel.app/api?username=kamileray&show_icons=true&theme=dark" style="margin: 10px 0px" >
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamileray&layout=compact&theme=dark" style="margin: 10px 10px" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamileray&layout=compact&theme=dark" style="margin: 10px 20px" >
 
 
 
