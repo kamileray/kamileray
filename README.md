@@ -77,14 +77,30 @@ Or, Contact Me On Discord
 <hr>
 
 <br>
-Most used language&Profile Stats
+<div class="stats">
+<h4 style="color:white; font-family: Arial;">Most used language&Profile Stats</h4>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamileray&layout=compact&theme=dark" >
+<div class="icerik" style="display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    align-content: stretch;
+    flex-wrap: nowrap;
+    flex-direction: row;">
+<img src="https://github-readme-stats.vercel.app/api?username=kamileray&show_icons=true&theme=dark" style="margin: 10px 0px" >
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamileray&layout=compact&theme=dark" style="margin: 10px 10px" >
+
+
+
+
+</div>
 <br>
+<a href="https://app.daily.dev/K_Eray" align="left" ><!--style="position: absolute; left: 550px;" -->
+<img src="https://api.daily.dev/devcards/71b80b25d91843f6869c8a0cd10119ad.png?r=8g5" width="300" alt="Kamil Eray Özaydın's Dev Card"/>
+</a>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamileray&show_icons=true&theme=dark" >
+</div>
 <br>
 <hr>
 <br>
