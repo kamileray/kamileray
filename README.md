@@ -84,6 +84,8 @@ Most used language&Profile Stats
 
 <br>
 
+<a href="https://app.daily.dev/K_Eray" style="margin-left:50px;"><img src="https://api.daily.dev/devcards/71b80b25d91843f6869c8a0cd10119ad.png?r=8g5" width="400" alt="Kamil Eray Özaydın's Dev Card"/></a>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=kamileray&show_icons=true&theme=dark" >
 
