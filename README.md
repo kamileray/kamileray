@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kamil Eray Özaydın
 
-💻 Hello, I am <b>Kamil Eray Özaydın</b> and I'm a 17-year-old high school student with experience in developing front-end systems.
+💻 Hello, I am <b>Kamil Eray Özaydın</b> and I'm a 19-year-old high school student with experience in developing front-end systems.
 <br>
 💻 I am striving to be a Full Stack Developer. You can see my projects on my github profile.
 
